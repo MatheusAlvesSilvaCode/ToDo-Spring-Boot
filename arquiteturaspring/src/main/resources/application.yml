@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: Arquitetura Spring
+  jpa:
+    show-sql: true
+  main:
+    lazy-initialization: false
+
+app:
+  monhtadora:
+    motor-padra: 150
+  config:
+    variavel: O valor da variavel é X
+    valor1: 500
